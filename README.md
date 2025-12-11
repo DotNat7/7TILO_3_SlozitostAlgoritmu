@@ -1,6 +1,5 @@
 Výsledky: 
 DATASET 1: Smíšená data (čísla + řetězce) 
-══════════════════════════════════════════
 
 Bubble Sort:
   Velikost pole: 100
@@ -19,7 +18,6 @@ Merge Sort:
 
 
  DATASET 2: Velká desetinná čísla 
-═════════════════════════════════
 
 Bubble Sort:
   Velikost pole: 1000
@@ -38,7 +36,6 @@ Merge Sort:
 
 
  DATASET 3: Osobní číslo P25243
-═══════════════════════════════
 
 Bubble Sort:
   Velikost pole: 6
